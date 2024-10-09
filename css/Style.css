@@ -1,0 +1,34 @@
+*{
+	margin: 20px;
+	font-family: 'Koulen', cursive;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Playfair Display', serif;
+}
+
+.formulario{
+	background-color: rgba(0, 0, 0, 0.829);
+	border: 2px rgb(12, 161, 32) solid;
+}
+
+.Titulo{
+	color: rgb(12, 161, 32);
+}
+
+.mini-title{
+	color: aliceblue;
+}
+
+label{
+	font-size: 20px;
+}
+
+.barra{
+	max-width: 400px;
+	max-height: 300px;
+	border: 1px black solid;
+	background-color: aliceblue;
+}
+
+.Emergencia{
+	color: rgb(194, 5, 5);
+}
